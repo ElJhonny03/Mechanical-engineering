@@ -20,7 +20,7 @@ I am a mechanical engineering undergraduate posting my most recent university pr
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-here [link to project](https://github.com/ElJhonny03/Mechanical-engineering/blob/main/_posts/2025-02-04-CubeSat_Thermal_Control_systems.md)
+[project](https://github.com/ElJhonny03/Mechanical-engineering/blob/main/_posts/2025-02-04-CubeSat_Thermal_Control_systems.md)
 
 
 
