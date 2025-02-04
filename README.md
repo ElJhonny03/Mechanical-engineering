@@ -20,11 +20,11 @@ I am a mechanical engineering undergraduate posting my most recent university pr
   Review what we learned, ask for feedback, provide next steps.
 -->
 
+here [link to project](/ElJhonny03/Mechanical-engineering/edit/main/README.md)
 
 
 
 <img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
-[link to project](/main/_posts/2025-02-04-CubeSat_Thermal_Control_systems.md)
 
 <footer>
 
