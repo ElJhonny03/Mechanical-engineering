@@ -1,26 +1,25 @@
 <header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
 # MEng (Hons) Mechanical engineering | Queen Mary University of London
 
 I am a mechanical engineering undergraduate posting my most recent university projects
 
 
-
 </header>
+
+<body>
+  
+[project](https://github.com/ElJhonny03/Mechanical-engineering/blob/main/_posts/2025-02-04-CubeSat_Thermal_Control_systems.md)
+
+
+  
+</body>
 
 <!--
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-[project](https://github.com/ElJhonny03/Mechanical-engineering/blob/main/_posts/2025-02-04-CubeSat_Thermal_Control_systems.md)
 
 
 
