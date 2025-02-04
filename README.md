@@ -7,9 +7,11 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Jhonatan
+# MEng (Hons) Mechanical engineering | Queen Mary University of London
 
-MEng (Hons) Mechanical engineering | Queen Mary University of London
+I am a mechanical engineering undergraduate posting my most recent university projects
+
+
 
 </header>
 
@@ -23,7 +25,6 @@ MEng (Hons) Mechanical engineering | Queen Mary University of London
 
 <img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
 
-I am a mechanical engineering undergraduate posting my most recent university projects
 
 <footer>
 
