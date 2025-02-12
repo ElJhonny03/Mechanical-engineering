@@ -10,7 +10,7 @@ Results for the heater are shown below:
 
 <figure id="fig1">
   <img src="/assets/images/Heater_graphP_control.png" alt="Heater proportional control" width="600">
-  <figcaption>Figure 1: Graph of a proportional control for a heater </figcaption>
+  <figcaption>Figure 1: Graph of a proportional control for a heater, where the yellow line is the wall temperature and the blue line is the difference between the actual temperature and the desired temperature </figcaption>
 </figure>
 
 
