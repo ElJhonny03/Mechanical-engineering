@@ -7,5 +7,5 @@ My sub-system involves regulating the internal and external temperatures of the 
 
 Results for the heater are shown below:
 
-[Graph for the heater using proportional control only ](assets/images/Heater_graph.png)
+![Graph for the heater using proportional control only ](assets/images/Heater_graph.png)
 
