@@ -9,5 +9,5 @@ Results for the heater are shown below:
 
 ![Graph for the heater using proportional control only ](assets/images/Heater_graph.png)
 
-![A beautiful sunset](assets/images/Heater_graph.png)
+![A beautiful sunset](/assets/images/Heater_graph.png)
 
